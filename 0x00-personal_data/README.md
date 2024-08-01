@@ -35,4 +35,3 @@ _For this project, look at these concepts:_
 * A documentation is a real sentence explaining purpose of the module, class or method (length will be verified)
 * All functions should be type annotated
 
-## Finally...
